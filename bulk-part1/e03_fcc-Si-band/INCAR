@@ -1,0 +1,9 @@
+System = fcc Si 
+
+ICHARG = 11     ! read CHGCAR file
+
+ENCUT  = 240
+ISMEAR = 0      ! Gaussian broadening
+SIGMA  = 0.1
+
+LORBIT = 11

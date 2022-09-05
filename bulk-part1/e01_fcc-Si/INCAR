@@ -1,0 +1,8 @@
+System = fcc Si
+
+ISTART = 0    ! start from scratch
+ICHARG = 2    ! superposition of atomic charge densities
+
+ENCUT  = 240  ! energy cutoff
+ISMEAR = 0    ! Gaussian smearing
+SIGMA = 0.1   ! broadening
